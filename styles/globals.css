@@ -2,6 +2,30 @@
 @tailwind components;
 @tailwind utilities;
 
+html,
+body {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.app {
+  height: 100vh;
+}
+
+section {
+  width: 100%;
+  padding: 0 12%;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+}
+
+main {
+  flex: 1;
+}
+/*
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -25,3 +49,4 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+*/
