@@ -40,7 +40,7 @@ export const completedProjects: Project[] = [
     technologiesUsed: ["React", "Node", "Tailwind"],
     image: "/projectimgs/man.webp",
     projectLink: "",
-    gitLink: "https://github.com/arpanneupane19/NodeLink",
+    gitLink: "",
     alt: "NodeLink",
     width: 250,
     height: 230,
