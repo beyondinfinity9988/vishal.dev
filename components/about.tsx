@@ -26,7 +26,7 @@ function About() {
             programming on{" "}
             <a
               className="text-blue"
-              href="https://youtube.com/c/ArpanNeupaneProductions"
+              //href="https://youtube.com/c/ArpanNeupaneProductions"
               target="__blank"
             >
               YouTube
@@ -40,7 +40,7 @@ function About() {
            
             <a
               className="text-blue"
-              href="https://themorningnews.com/news/author/arpanneupane/"
+             // href="https://themorningnews.com/news/author/arpanneupane/"
               target="__blank"
             >
               TheMorningNews
